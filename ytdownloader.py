@@ -4,7 +4,7 @@ from InquirerPy import inquirer
 import os
 import sys
 
-default_path = "/home/diljith/yt_download"
+default_path = "YOUR_PATH_HERE"
 
 #audio
 def get_audio(url,save_path=default_path):
