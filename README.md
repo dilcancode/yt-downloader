@@ -26,5 +26,5 @@ Download YouTube videos as **MP4** or extract audio as **MP3** — right from yo
 
 1. **Clone the repo**
    ```bash
-  
+   git clone https://github.com/dilcancode/yt-downloader.git
    cd yt-downloader
