@@ -18,7 +18,7 @@ def get_audio(url,save_path=default_path):
 		print(f"Downloading...")
 		#video info
 		print("-"*20+"Video info"+"-"*20)
-		print(f"Title : {video.title}\nChannel : {video.author}\nLength : {video.length}")
+		print(f"Title : {video.title}\nChannel : {video.author}\nLength : {video.length} sec")
 		print("-"*50)
 
 		#download the video
