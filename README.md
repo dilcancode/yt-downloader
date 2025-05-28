@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # 🎧 YouTube Downloader CLI (MP3/MP4)
 
 A simple command-line tool to download YouTube videos as MP4 or extract audio as MP3 — with interactive prompts and conversion magic. Built using `pytubefix`, `moviepy`, and `InquirerPy`.
