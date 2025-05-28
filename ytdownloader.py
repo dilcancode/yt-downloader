@@ -96,7 +96,7 @@ def main():
         print("\nInterrupted by user.")
         sys.exit(0)
 
-# Run the program
+# Run  the  program
 if __name__ == "__main__":
     main()
 	 
