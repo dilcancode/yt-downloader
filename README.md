@@ -51,7 +51,7 @@ A simple command-line tool to download YouTube videos as MP4 or extract audio as
 ## 🧠 Usage
 
 ```bash
-python downloader.py
+python ytdownloader.py
 ```
 
 Then follow the on-screen prompts:
